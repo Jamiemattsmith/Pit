@@ -1,4 +1,4 @@
-set_property SRC_FILE_INFO {cfile:/home/jzsmith/git/RedPitaya/fpga/prj/classic/.srcs/sources_1/bd/system/ip/system_processing_system7_0_70/system_processing_system7_0.xdc rfile:../.srcs/sources_1/bd/system/ip/system_processing_system7_0_70/system_processing_system7_0.xdc id:1 order:EARLY scoped_inst:ps/system_i/processing_system7/inst} [current_design]
+set_property SRC_FILE_INFO {cfile:/home/jzsmith/git/RedPitaya/fpga/prj/classic/.srcs/sources_1/bd/system/ip/system_processing_system7_0_71/system_processing_system7_0.xdc rfile:../.srcs/sources_1/bd/system/ip/system_processing_system7_0_71/system_processing_system7_0.xdc id:1 order:EARLY scoped_inst:ps/system_i/processing_system7/inst} [current_design]
 set_property SRC_FILE_INFO {cfile:/home/jzsmith/git/RedPitaya/fpga/sdc/red_pitaya.xdc rfile:../../../sdc/red_pitaya.xdc id:2} [current_design]
 set_property src_info {type:SCOPED_XDC file:1 line:21 export:INPUT save:INPUT read:READ} [current_design]
 set_input_jitter clk_fpga_0 0.24
