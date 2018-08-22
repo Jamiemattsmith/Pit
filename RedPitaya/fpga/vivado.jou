@@ -2,15 +2,11 @@
 # Vivado v2018.2 (64-bit)
 # SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
 # IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
-# Start of session at: Tue Aug  7 12:07:56 2018
-# Process ID: 2043
+# Start of session at: Fri Aug 17 10:59:54 2018
+# Process ID: 4196
 # Current directory: /home/jzsmith/git/RedPitaya/fpga
 # Command line: vivado
 # Log file: /home/jzsmith/git/RedPitaya/fpga/vivado.log
 # Journal file: /home/jzsmith/git/RedPitaya/fpga/vivado.jou
 #-----------------------------------------------------------
 start_gui
-dir
-cd prj/classic/ip
-source system.tcl
-update_compile_order -fileset sources_1
