@@ -25,7 +25,7 @@
 // Decimation constants
 static const uint32_t DEC_1     = 1;
 static const uint32_t DEC_8     = 8;
-static const uint32_t DEC_32    = 53;
+static const uint32_t DEC_32    = 32;
 static const uint32_t DEC_64    = 64;
 static const uint32_t DEC_1024  = 1024;
 static const uint32_t DEC_8192  = 8192;
